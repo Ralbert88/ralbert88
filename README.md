@@ -1,4 +1,4 @@
-Olá! Eu sou o Ralbert Rodrigues 👋
+Olá! Eu sou o **Ralbert Rodrigues** 👋
 
 - 🔨 Atualmente trabalho com Infraestrutura
 - ⚙  Iniciando em Python
