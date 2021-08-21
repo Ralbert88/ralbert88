@@ -1,17 +1,13 @@
 Olá! Eu sou o **Ralbert Rodrigues** 👋
 
-- 🔨 Atualmente trabalho com Infraestrutura
+- 🔨 Atualmente trabalho como Analista de Infraestrutura
 - ⚙  Iniciando em Python
 - 🌱 Estudando banco de dados (MySql e Oracle)
 - 🔑 Conhecimento básico em C# , Java Script, Html e Css
 - 🪓 Estudo e "brinco com Flutter" (Nada profissional)
 - 📫 Contate me no email: rodriguesralbert@gmail.com
- 
-<div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ralbert88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralbert88&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ral-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,6 +18,15 @@ Olá! Eu sou o **Ralbert Rodrigues** 👋
   <img align="center" alt="Ral-my" height="30" width="40" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  
 </div>
+
+##
+ 
+<div>
+  <a href="https://github.com/Ralbert88">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ralbert88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ralbert88&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
   
   ##
  
