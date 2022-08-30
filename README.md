@@ -1,8 +1,8 @@
 Olá! Eu sou o **Ralbert Rodrigues** 👋
 
 - 🔨 Atualmente trabalho como Analista de Infraestrutura
-- ⚙  Iniciando em Python
-- 🌱 Estudando banco de dados (MySql e Oracle)
+- ⚙  Active Directory
+- 🌱 Banco de dados MySql
 - 🔑 Conhecimento básico em C# , Java Script, Html e Css
 - 🪓 Estudo e "brinco com Flutter" (Nada profissional)
 - 📫 Contate me no email: rodriguesralbert@gmail.com
