@@ -1,7 +1,8 @@
 Olá! Eu sou o **Ralbert Rodrigues** 👋
 
 - 🔨 Atualmente trabalho como Analista de Banco de Dados
-- 🌱 Banco de dados DBA MySql.
+- 🌱 Banco de dados
+    - DBA MySql.
     - Analista Oracle
     - Analista SQLServer
 - 🪓 Conhecimento básico/intermédio Python
