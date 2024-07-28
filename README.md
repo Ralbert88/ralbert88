@@ -1,13 +1,16 @@
-Olá! Eu sou o **Ralbert Rodrigues** 👋
+Olá! Eu sou o **Ralbert Rodrigues Vargas Botelho** 👋
 
-- 🔨 Atualmente trabalho como Dba
+Sou Analista de Sistema, 11 anos com experiência em Infraestrutura e suporte no geral
+
+- 🔨 Atualmente trabalho como DBA/Cloud/DevOps
 - 🌱 Banco de dados
     - DBA MySql.
     - Analista Oracle
     - Analista SQLServer
+- 🪓 Conhecimento em Cloud AWS, Oracle e infraestrutura no geral
 - 🪓 Conhecimento básico/intermédio Python
 - 🔑 Conhecimento básico em C# , Java Script, Html e Css
--  ⚙ Experiência em Active Directory, Cloud AWS, Oracle
+-  ⚙ Experiência em Active Directory, Suporte Técnico
 - 📫 Contate me no email: rodriguesralbert@gmail.com
 
 
