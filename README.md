@@ -14,6 +14,13 @@ Sou Analista de Sistemas, 11 anos com experiência em Infraestrutura e suporte n
 -  ⚙ Experiência em Active Directory, Suporte Técnico
 - 📫 Contate me no email: rodriguesralbert@gmail.com ou pelo (35)99872-9560
 
+- Habilidades Técnicas
+Bancos de Dados: MySQL, Oracle, PostgreSQL, SQL Server , com foco em perfomance de querys.
+Infraestrutura: AWS Cloud, VM's, VPN, Waf e segurança em cloud, Administração de Active Directory.
+Sistemas Operacionais: Windows Server, Windows Desktop, Linux.
+Ferramentas: GitHub, Jira, Office 365, Azure.
+Outros: DevOps, automação de processos, documentação técnica. 
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ral-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
