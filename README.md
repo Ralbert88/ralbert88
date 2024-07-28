@@ -14,7 +14,9 @@ Sou Analista de Sistemas, 11 anos com experiência em Infraestrutura e suporte n
 - 🔑 Conhecimento básico em C# , Java Script, Html e Css
 - 📫 Contate me no email: rodriguesralbert@gmail.com ou pelo (35)99872-9560
 
-  ⚙ Habilidades Técnicas => Bancos de Dados MySQL, Oracle, PostgreSQL, SQL Server , com foco em perfomance de querys.
+  ⚙ Habilidades Técnicas ⚙
+
+Bancos de Dados MySQL, Oracle, PostgreSQL, SQL Server , com foco em perfomance de querys.
   
 Infraestrutura: AWS Cloud, VM's, VPN, VPC, Waf e segurança em cloud, Administração de Active Directory.
 
