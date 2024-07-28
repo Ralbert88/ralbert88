@@ -1,13 +1,13 @@
 Olá! Eu sou o **Ralbert Rodrigues** 👋
 
-- 🔨 Atualmente trabalho como Analista de Banco de Dados
+- 🔨 Atualmente trabalho como Dba
 - 🌱 Banco de dados
     - DBA MySql.
     - Analista Oracle
     - Analista SQLServer
 - 🪓 Conhecimento básico/intermédio Python
 - 🔑 Conhecimento básico em C# , Java Script, Html e Css
--  ⚙ Experiência em Active Directory
+-  ⚙ Experiência em Active Directory, Cloud AWS, Oracle
 - 📫 Contate me no email: rodriguesralbert@gmail.com
 
 
