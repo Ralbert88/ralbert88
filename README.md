@@ -1,5 +1,6 @@
 Olá! Eu sou o **Ralbert Rodrigues Vargas Botelho** 👋
-Sou de Minas Gerais[Santo Antônio do Amparo, atualmente morando em São Paulo-SP.
+
+Sou de Santo Antônio do Amparo-MG, atualmente morando em São Paulo-SP.
 
 Sou Analista de Sistemas, 11 anos com experiência em Infraestrutura e suporte no geral
 
