@@ -6,7 +6,7 @@ Sou Analista de Sistemas, 11 anos com experiência em Infraestrutura e suporte n
 
 - 🔨 Atualmente trabalho como DBA/Cloud/DevOps para uma Startup
 - 🌱 Banco de dados
-    - DBA MySql [Modelagem, manutenção, performance de querys.
+    - DBA MySql [Modelagem, manutenção, performance de querys]
     - Analista Oracle
     - Analista SQLServer
 - 🪓 Conhecimento em Cloud AWS, Oracle e infraestrutura no geral
