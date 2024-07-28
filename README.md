@@ -1,17 +1,18 @@
 Olá! Eu sou o **Ralbert Rodrigues Vargas Botelho** 👋
+Sou de Minas Gerais[Santo Antônio do Amparo, atualmente morando em São Paulo-SP.
 
-Sou Analista de Sistema, 11 anos com experiência em Infraestrutura e suporte no geral
+Sou Analista de Sistemas, 11 anos com experiência em Infraestrutura e suporte no geral
 
-- 🔨 Atualmente trabalho como DBA/Cloud/DevOps
+- 🔨 Atualmente trabalho como DBA/Cloud/DevOps para uma Startup
 - 🌱 Banco de dados
-    - DBA MySql.
+    - DBA MySql [Modelagem, manutenção, performance de querys.
     - Analista Oracle
     - Analista SQLServer
 - 🪓 Conhecimento em Cloud AWS, Oracle e infraestrutura no geral
 - 🪓 Conhecimento básico/intermédio Python
 - 🔑 Conhecimento básico em C# , Java Script, Html e Css
 -  ⚙ Experiência em Active Directory, Suporte Técnico
-- 📫 Contate me no email: rodriguesralbert@gmail.com
+- 📫 Contate me no email: rodriguesralbert@gmail.com ou pelo (35)99872-9560
 
 
 <div style="display: inline_block"><br>
