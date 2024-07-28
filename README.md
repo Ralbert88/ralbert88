@@ -9,17 +9,19 @@ Sou Analista de Sistemas, 11 anos com experiência em Infraestrutura e suporte n
     - DBA MySql [Modelagem, manutenção, performance de querys]
     - Analista Oracle
     - Analista SQLServer
-- 🪓 Conhecimento em Cloud AWS, Oracle e infraestrutura no geral
+- ⚙  Conhecimento em Cloud AWS, Oracle e infraestrutura no geral(Active Directory, Suporte Técnico)
 - 🪓 Conhecimento básico/intermédio Python
 - 🔑 Conhecimento básico em C# , Java Script, Html e Css
--  ⚙ Experiência em Active Directory, Suporte Técnico
 - 📫 Contate me no email: rodriguesralbert@gmail.com ou pelo (35)99872-9560
 
-- Habilidades Técnicas
-Bancos de Dados: MySQL, Oracle, PostgreSQL, SQL Server , com foco em perfomance de querys.
-Infraestrutura: AWS Cloud, VM's, VPN, Waf e segurança em cloud, Administração de Active Directory.
+- Habilidades Técnicas => Bancos de Dados MySQL, Oracle, PostgreSQL, SQL Server , com foco em perfomance de querys.
+- 
+Infraestrutura: AWS Cloud, VM's, VPN, VPC, Waf e segurança em cloud, Administração de Active Directory.
+
 Sistemas Operacionais: Windows Server, Windows Desktop, Linux.
+
 Ferramentas: GitHub, Jira, Office 365, Azure.
+
 Outros: DevOps, automação de processos, documentação técnica. 
 
 
