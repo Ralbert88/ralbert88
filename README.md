@@ -4,13 +4,15 @@ Sou de Santo Antônio do Amparo-MG, atualmente morando em São Paulo-SP.
 
 Sou Analista de Sistemas, 11 anos com experiência em Infraestrutura e suporte no geral
 
-- 🔨 Atualmente trabalho como DBA/Cloud/DevOps para uma Startup
+- 🔨 Atualmente trabalho como DBA para a Núclea, antiga CIP
 - 🌱 Banco de dados
     - DBA MySql [Modelagem, manutenção, performance de querys]
     - Analista Oracle
     - Analista SQLServer
+    - Analista Postgres
+    - Analista DB2
 - ⚙  Conhecimento em Cloud AWS, Oracle e infraestrutura no geral(Active Directory, Suporte Técnico)
-- 🪓 Conhecimento básico/intermédio Python
+- 🪓 Conhecimento básico/intermédio Python, Shell
 - 🔑 Conhecimento básico em C# , Java Script, Html e Css
 - 📫 Contate me no email: rodriguesralbert@gmail.com ou pelo (35)99872-9560
 
