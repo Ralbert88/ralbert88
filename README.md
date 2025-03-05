@@ -6,27 +6,28 @@ Sou Analista de Sistemas, 11 anos com experiência em Infraestrutura e suporte n
 
 - 🔨 Atualmente trabalho como DBA para a Núclea, antiga CIP
 - 🌱 Banco de dados
-    - DBA MySql [Modelagem, manutenção, performance de querys]
-    - Analista Oracle
-    - Analista SQLServer
-    - Analista Postgres
-    - Analista DB2
-- ⚙  Conhecimento em Cloud AWS, Oracle e infraestrutura no geral(Active Directory, Suporte Técnico)
+    - Modelagem 
+    - DBA MySql [manutenção, performance de querys e ambiente]
+    - Analista Oracle [manutenção, performance de querys e ambiente]
+    - Analista SQLServer [manutenção, performance de querys e ambiente]
+    - Analista Postgres [manutenção, performance de querys e ambiente]
+    - Analista DB2 - Básico
+- ⚙  Conhecimento em Cloud AWS, Oracle e infraestrutura no geral(Active Directory, Suporte Técnico/corporativo)
 - 🪓 Conhecimento básico/intermédio Python, Shell
 - 🔑 Conhecimento básico em C# , Java Script, Html e Css
 - 📫 Contate me no email: rodriguesralbert@gmail.com ou pelo (35)99872-9560
 
   ⚙ Habilidades Técnicas ⚙
 
-Bancos de Dados MySQL, Oracle, PostgreSQL, SQL Server , com foco em perfomance de querys.
+Bancos de Dados MySQL, Oracle, PostgreSQL, SQL Server , foco em perfomance de querys,ambiente e Restores/Backups
   
-Infraestrutura: AWS Cloud, VM's, VPN, VPC, Waf e segurança em cloud, Administração de Active Directory.
+Infraestrutura: AWS Cloud [RDS, EC2, CloudWatch, IAM, WAF, VPC Route53,S3,WAF,Load Balancer,SQS], Administração e configuração de Active Directory.
 
 Sistemas Operacionais: Windows Server, Windows Desktop, Linux.
 
 Ferramentas: GitHub, Jira, Office 365, Azure.
 
-Outros: DevOps, automação de processos, documentação técnica. 
+Outros: DevOps, automação de processos com Shell Script, documentação técnica. 
 
 
 <div style="display: inline_block"><br>
