@@ -3,7 +3,7 @@ Olá! Eu sou o **Ralbert Rodrigues Vargas Botelho** 👋
 Sou de Santo Antônio do Amparo-MG, atualmente morando em São Paulo-SP.
 
 Sou Analista de Sistemas, 13 anos com experiência na área de Tecnologia
-- 🔨 Atualmente trabalho como DBA para a Núclea, antiga CIP
+- 🔨 Atualmente trabalho como Analista de Banco de Dados Pleno/DBA para a Núclea, antiga CIP
      - Atuando com Postgres, DB2, SQLServer, Mongo e DocumentDB
        
 - 🌱 Banco de dados
@@ -32,7 +32,8 @@ Outros: DevOps, automação de processos com Shell Script e Python , documentaç
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ral-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Ral-SQL" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
   <img align="center" alt="Ral-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ral-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
