@@ -2,9 +2,10 @@ Olá! Eu sou o **Ralbert Rodrigues Vargas Botelho** 👋
 
 Sou de Santo Antônio do Amparo-MG, atualmente morando em São Paulo-SP.
 
-Sou Analista de Sistemas, 11 anos com experiência em Infraestrutura e suporte no geral
-
+Sou Analista de Sistemas, 13 anos com experiência na área de Tecnologia
 - 🔨 Atualmente trabalho como DBA para a Núclea, antiga CIP
+     - Atuando com Postgres, DB2, SQLServer, Mongo e DocumentDB
+       
 - 🌱 Banco de dados
     - Modelagem 
     - DBA MySql [manutenção, performance de querys e ambiente]
@@ -25,9 +26,9 @@ Infraestrutura: AWS Cloud [RDS, EC2, CloudWatch, IAM, WAF, VPC Route53,S3,WAF,Lo
 
 Sistemas Operacionais: Windows Server, Windows Desktop, Linux.
 
-Ferramentas: GitHub, Jira, Office 365, Azure.
+Ferramentas: GitHub, Jira, Confluence, Office 365, Azure.
 
-Outros: DevOps, automação de processos com Shell Script, documentação técnica. 
+Outros: DevOps, automação de processos com Shell Script e Python , documentação técnica. 
 
 
 <div style="display: inline_block"><br>
